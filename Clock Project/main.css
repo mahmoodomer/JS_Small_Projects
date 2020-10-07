@@ -1,0 +1,12 @@
+body {
+  background-color: #000;
+  color: #17d4fe;
+}
+.container {
+  font-size: 5rem;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Orbitron;
+}
